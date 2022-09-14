@@ -11,3 +11,5 @@
 Honest time taken to finish this project  is 2 days 
 
 [netlify link](https://live-project-product-landpage.netlify.app/)
+
+![screen shot](./sources/pro-15.png)
